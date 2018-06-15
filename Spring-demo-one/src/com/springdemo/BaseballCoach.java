@@ -1,7 +1,7 @@
 package com.springdemo;
 
 public class BaseballCoach implements Coach{
-	
+	//Some changes for checking the github effect
 	//define a private field for dependency
 	private FortuneService fortuneService;
 	
